@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre":"Amd Ryzen 5",
+        "precio":"$500",
+        "img": "./img/procesadoramd.png"
+    },
+
+    {   
+        "id": 2,
+        "nombre":"Fuente 500W",
+        "precio":"$700",
+        "img": "./img/fuente.png"
+    },  
+
+    {
+        "id": 3,
+        "nombre":"Nvidia 2070TI",
+        "precio":"$100",
+        "img": "./img/placa2070.png"
+    }
+]
